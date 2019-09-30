@@ -1,5 +1,5 @@
 # EvanScrewingAround
-Half-baked projects / random things Evan had a blast with
+Half-baked projects / random things I had a blast with
 
 (Don't expect the documentation in here to be fantastic lol)
 
