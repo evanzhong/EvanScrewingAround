@@ -9,3 +9,4 @@ Counting calories is hard enough as it is, how about we set a cron task every mo
 Crawler returns a bunch of JSON objects
 
 ## Crawl linkedin
+This was fun b/c I had to find a way to get around LI's rate limiting / bot detection
